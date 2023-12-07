@@ -1,0 +1,5 @@
+/node_modules
+/web/node_modules
+/web/test_data/credentials.json
+/coverage
+/web/allure-results

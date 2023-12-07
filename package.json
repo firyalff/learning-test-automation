@@ -1,0 +1,7 @@
+{
+  "name": "learning-test-automation",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^8.24.15"
+  }
+}
